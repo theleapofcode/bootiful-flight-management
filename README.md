@@ -1,5 +1,5 @@
 # bootiful-flight-management
-Spring boot microservice example inspired [Spring microservices] (from https://www.packtpub.com/application-development/spring-microservices) - chapter 2 
+Spring boot microservice example inspired by [Spring microservices](https://www.packtpub.com/application-development/spring-microservices) - chapter 2 
 
 ## Steps to run
 
